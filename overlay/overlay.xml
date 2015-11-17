@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+<repo quality="experimental" status="official">
+        <name>paxal</name>
+        <description>experimental ebuilds</description>
+        <homepage>http://github.com/paxal/paxal-overlay</homepage>
+        <owner type="project">
+                <email>cyril.pascal_github@m4x.org</email>
+                <name>paxal</name>
+        </owner>
+        <source type="git">git://github.com/paxal/paxal-overlay.git</source>
+</repo>
+</repositories>
